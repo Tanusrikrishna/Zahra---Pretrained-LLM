@@ -1,5 +1,10 @@
 # Zahra Transformer Experiment
 
+the model weight are here is the link
+```bash
+https://drive.google.com/file/d/1WHmalqN_3StsCY9y1HN2K95YD1-4a6vU/view?usp=sharing
+```
+
 ## Overview
 This repository contains experiments with a custom Transformer-based language model.  
 The goal is to explore model training, evaluation, and inference quality using a lightweight architecture.
